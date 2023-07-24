@@ -1,1 +1,1 @@
-Mobile Application that utilizes Complementary Alternative Medications solution to help out users with quick and easy methods of solving health issues. Built using the Kivy framework in python. The code is entirely built by Madhav Gowda. 
+Mobile Application that utilizes Complementary Alternative Medication solution to help out users with quick and easy methods of solving health issues. Built using the Kivy framework in python. The code is entirely built by Madhav Gowda. 
